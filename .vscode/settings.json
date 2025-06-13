@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/private/var/tmp/sage-10.5-current/local/var/lib/sage/venv-python3.12.5/bin/python3",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportUndefinedVariable": "none"
+  }
+}
